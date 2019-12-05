@@ -91,14 +91,6 @@ This is the current development status, methods with [x] are already implemented
 
 If you find that the API has another methods that are not declared here, please [open a issue](https://github.com/lmmendes/magnifinance-rb/issues).
 
-## Bug reports and other issues
-
-* https://github.com/lmmendes/magnifinance-rb/issues
-
-## Help and Docs
-
-* https://github.com/lmmendes/magnifinance-rb/wiki
-
 ## Contributing
 
 * Fork the project.
